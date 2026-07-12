@@ -1,2 +1,1 @@
-# Market-Minds
-Market Minds
+
